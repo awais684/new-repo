@@ -1,0 +1,11 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo "No build needed"
+
+artifacts:
+  files:
+    - index.html
+    - appspec.yml
